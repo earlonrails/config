@@ -30,6 +30,7 @@ attributes:
       - jmeter
       - cmake
       - pow
+      - nginx
       - jpeg
       - coreutils
       - lame
@@ -139,6 +140,15 @@ attributes:
       - generator-reactjs
       - generator-karma
       - generator-angular
+      - generator-express-react
+      - generator-mariongulpreactify
+      - generator-angular-fullstack
+      - karma
+      - protractor
+      - autoprefixer
+      - generator-node
+      - generator-react-webpack
+      - yo
       - express
       - elasticdump
       - coffee-script
