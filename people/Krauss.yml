@@ -9,75 +9,129 @@ attributes:
     computername: Krauss-Mac
   homebrewalt:
     apps:
-      - git-extras
-      - git-flow
-      - gtk+
-      - node
+      - android-sdk
       - ant
-      - gtksourceview
       - arping
-      - htop-osx
-      - hub
-      - openssl
       - atk
       - autoconf
-      - iftop
       - automake
-      - pango
       - brew-cask
-      - pbzip2
-      - pixman
-      - jmeter
+      - cairo
+      - cassandra
       - cmake
-      - pow
-      - nginx
-      - jpeg
       - coreutils
-      - lame
-      - pstree
-      - lftp
-      - pv
       - ddrescue
       - elasticsearch
-      - python3
+      - elixir
+      - erlang
+      - fig
       - findutils
-      - readline
-      - redis
       - fontconfig
-      - rhino
       - fping
-      - sbt
       - freetype
-      - scala
       - gawk
       - gdbm
-      - shmux
       - gdk-pixbuf
-      - libtiff
       - geoip
+      - gettext
       - git
-      - sqlite
       - git-extras
+      - git-flow
+      - giter8
+      - glib
       - gmp
-      - little-cms
-      - tmux
-      - lua
       - gnu-getopt
-      - tree
       - gnu-indent
-      - watch
       - gnu-sed
-      - meld
-      - wget
       - gnu-tar
-      - memcached
       - gnupg
       - gnutls
+      - gobject-introspection
+      - graphviz
+      - grep
+      - gtk+
+      - gtksourceview
+      - harfbuzz
+      - headers-more-nginx-module
+      - htop-osx
+      - hub
+      - hubflow
+      - icu4c
+      - iftop
+      - imagemagick
+      - intltool
+      - jmeter
+      - jpeg
+      - lame
+      - leiningen
+      - lftp
+      - libevent
+      - libffi
+      - libgpg-error
+      - libksba
+      - libnet
+      - libpng
+      - libsodium
+      - libtasn1
+      - libtiff
+      - libtool
+      - libyaml
+      - little-cms
+      - lua
+      - lzip
+      - mad
+      - meld
+      - memcached
+      - mercurial
       - mongodb
       - mutt
+      - nettle
+      - nginx-full
+      - node
+      - openssl
+      - ossp-uuid
+      - pango
+      - pbzip2
+      - pcre
+      - pixman
+      - pkg-config
+      - postgresql
+      - pow
+      - pstree
+      - pv
+      - py2cairo
+      - pygobject
+      - pygtk
+      - pygtksourceview
+      - python
+      - python3
+      - rabbitmq
+      - rarian
+      - readline
+      - redis
+      - rename
+      - rhino
+      - sbt
+      - scala
+      - selenium-server-standalone
+      - shmux
+      - sox
+      - sqlite
+      - squid
+      - tmux
+      - tokyo-cabinet
+      - tree
+      - typesafe-activator
+      - unixodbc
+      - watch
+      - wget
+      - wxmac
+      - xz
+      - zeromq
     cask_apps:
       - xquartz
       - adium
+      - android-studio
       - angry-ip-scanner
       - atom
       - audacity
@@ -113,6 +167,7 @@ attributes:
       - pandora-one
       - seashore
       - sequel-pro
+      - seil
       - shiftit
       - soundflower
       - sourcetree
@@ -134,6 +189,7 @@ attributes:
       - readable-stream
       - phantomjs
       - ngrok
+      - ios-sim
       - jasmine-node
       - gulp
       - grunt-cli
