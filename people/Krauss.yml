@@ -26,6 +26,7 @@ attributes:
       - erlang
       - fig
       - findutils
+      - flyaway
       - fontconfig
       - fping
       - freetype
@@ -118,6 +119,7 @@ attributes:
       - sox
       - sqlite
       - squid
+      - titan-server
       - tmux
       - tokyo-cabinet
       - tree
